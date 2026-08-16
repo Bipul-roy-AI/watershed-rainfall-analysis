@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata below."
+authors:
+  - family-names: Roy
+    given-names: Bipul
+title: "Watershed Rainfall Analyzer"
+version: 3.0.0
+date-released: "2025-08-16"
+license: MIT
+type: software
